@@ -17,3 +17,5 @@ the charger for the emergency purpose. If we disconnect the charger, we lost the
 amount of money. So in this project we proposed currency based return policy EV station to 
 rectify the problems. 
 KEYWORDS: Deep learning, RFID, Keypad, EV charging.
+![cardless transaction](https://user-images.githubusercontent.com/73100798/236164072-85ae5d1f-5b22-41b1-9b4e-bc17a6450480.jpg)
+![cardless transaction](https://user-images.githubusercontent.com/73100798/236164101-5958cb14-3635-4e49-9160-152f91e1bf77.jpg)
